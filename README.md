@@ -35,7 +35,7 @@ I am planning to pursue my interests in this field not only as hobby but as an a
 - HTML & CSS
 - LaTeX
 
-##libraries
+## Libraries
 
 - Tensorflow/keras (still learning)
 - Mediapipe
