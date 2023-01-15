@@ -40,3 +40,4 @@ I am planning to pursue my interests in this field not only as hobby but as an a
 - Tensorflow/keras (still learning)
 - Mediapipe
 - MMPose (still learning)
+- Pytorch (still learning)
