@@ -3,11 +3,6 @@
 **I am high school student, interested in Computer Science, especially in Machine Learning, Deep Learning, Fullstack web development, data structures and algorithms.**
 I am planning to pursue my interests in this field not only as hobby but as an actual job.
 
-[![graph1](https://github-readme-stats.vercel.app/api?username=HelloWorld7894&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![graph2](https://github-readme-stats.vercel.app/api/top-langs?username=HelloWorld7894&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
-
 ## Programming languages:
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
