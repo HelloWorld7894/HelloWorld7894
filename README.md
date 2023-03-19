@@ -27,8 +27,7 @@ I am planning to pursue my interests in this field not only as hobby but as an a
 
 - Tensorflow/keras (*still learning*)
 - Mediapipe
-- MMPose (*still learning*)
-- Pytorch (*still learning*)
+- Pytorch
 
 > ### Backend
 > ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=flat)
