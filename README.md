@@ -1,7 +1,7 @@
 ## Hi there 😄
 
-**I am high school student, interested in Computer Science, especially in Machine Learning, Deep Learning, Fullstack web development, data structures and algorithms.**
-I am planning to pursue my interests in this field not only as hobby but as an actual job.
+**I am a high school student, interested in Computer Science, with a particular focus on Machine Learning, Deep Learning, Fullstack web development, data structures and algorithms.**
+I am planning to pursue my interests in this field not only as a hobby but also as a job.
 
 ## Programming languages:
 
