@@ -1,7 +1,6 @@
 ## Hi there 😄
 
 **An university student interested in Computer Science, with a particular focus on Machine Learning, Deep Learning, Fullstack web development, data structures and algorithms.**
-I am planning to pursue my interests in this field not only as a hobby but also as a job.
 
 ## Programming languages:
 
